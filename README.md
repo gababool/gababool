@@ -2,8 +2,6 @@
 
 Software Engineering student at the University of Gothenburg / Chalmers, graduating spring 2026. I like building things that scale — mostly backend systems, distributed architectures, and infrastructure.
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gababool&show_icons=true&theme=default)
-
 ## What I'm into
 
 - Backend & distributed systems — designing services that handle real workloads reliably
