@@ -38,8 +38,3 @@ Software Engineering student at the University of Gothenburg / Chalmers, graduat
 - Writing my thesis on AI-powered wildfire detection for tactical decision support, in collaboration with the Swedish Defence Materiel Administration (FMV)
 - Finishing up my Bachelor's degree and exploring master's options in SE / CompSci
 - Check out my pinned repos below ↓
-
-## Get in touch
-
-- [LinkedIn](https://linkedin.com/in/martin-lidgren)
-- [martin.lidgren@live.se](mailto:martin.lidgren@live.se)
