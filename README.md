@@ -36,5 +36,5 @@ Software Engineering student at the University of Gothenburg / Chalmers, graduat
 ## Currently
 
 - Writing my thesis on AI-powered wildfire detection for tactical decision support, in collaboration with the Swedish Defence Materiel Administration (FMV)
-- Finishing up my Bachelor's degree and exploring master's options in SE / CompSci
+- Finishing up my Bachelor's degree
 - Check out my pinned repos below ↓
